@@ -22,7 +22,9 @@
     "babel-loader": "^7.1.2",
     "babel-preset-react": "^6.24.1",
     "nodemon": "^1.12.5",
+    "react-hot-loader": "^3.0.0",
     "webpack": "^3.10.0",
-    "webpack-dev-middleware": "^1.12.2"
+    "webpack-dev-middleware": "^1.12.2",
+    "webpack-hot-middleware": "^2.21.0"
   }
 }
